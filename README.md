@@ -1,7 +1,7 @@
 # The Computer Science Bible
 
 ## About
-** The Computer Science Bible** is an open, collaborative effort to create a comprehensive guide to the theory, practice and wisdom of computing. It is not a collection of facts but a deeply interconnected knowledge graph designed to build true mastery.
+**The Computer Science Bible** is an open, collaborative effort to create a comprehensive guide to the theory, practice and wisdom of computing. It is not a collection of facts but a deeply interconnected knowledge graph designed to build true mastery.
 
 This repository is the canonical source for the CSB, structured as a digital garden of notes, so you can browse on GitHub or, ideally, clone and explore within an application like [Obsidian](https://obsidian.md).
 
